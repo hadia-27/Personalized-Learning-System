@@ -1,0 +1,21 @@
+Profile_ID,Academic_Area,Confidence_Scores,Interests,Academic_Goal,Pass_Probability
+E01,Business & Management,"{""Business Analysis"": 2, ""Quantitative Skills"": 4, ""Strategic Thinking"": 4}",Marketing; Customer Analysis,Strengthen core academic skills,42
+E02,Business & Management,"{""Business Analysis"": 4, ""Quantitative Skills"": 3, ""Strategic Thinking"": 4}",Business Analytics; Decision Making,Develop advanced subject knowledge,68
+E03,Computing & IT,"{""Computer Systems"": 2, ""Programming"": 4, ""Databases"": 4}",Networking; Cybersecurity,Strengthen core academic skills,44
+E04,Computing & IT,"{""Computer Systems"": 4, ""Programming"": 3, ""Databases"": 4}",Programming; Software Development,Develop advanced subject knowledge,72
+E05,Data Science & AI,"{""Programming"": 2, ""Mathematics & Statistics"": 4, ""Data Analysis"": 4}",Python; Programming Fundamentals,Strengthen core academic skills,45
+E06,Data Science & AI,"{""Programming"": 4, ""Mathematics & Statistics"": 4, ""Data Analysis"": 5}",Machine Learning; Deep Learning,Develop advanced subject knowledge,88
+E07,Engineering & Technology,"{""Engineering Analysis"": 2, ""Technical Problem Solving"": 4, ""Mathematics"": 4}",Mechanical Engineering; Statics,Strengthen core academic skills,43
+E08,Engineering & Technology,"{""Engineering Analysis"": 4, ""Technical Problem Solving"": 3, ""Mathematics"": 4}",Robotics; Automation,Develop advanced subject knowledge,70
+E09,Psychology & Health Sciences,"{""Critical Evaluation"": 2, ""Statistical Analysis"": 4, ""Research Methods"": 4}",Cognitive Psychology; Social Behaviour,Strengthen core academic skills,46
+E10,Psychology & Health Sciences,"{""Critical Evaluation"": 4, ""Statistical Analysis"": 3, ""Research Methods"": 4}",Neuroscience; Cognition,Develop advanced subject knowledge,82
+E11,Law & Criminology,"{""Critical Analysis"": 2, ""Legal Research"": 4}",Criminal Law; International Crimes,Strengthen core academic skills,48
+E12,Law & Criminology,"{""Critical Analysis"": 4, ""Legal Research"": 3}",International Law; Case Law,Develop advanced subject knowledge,78
+E13,Media & Communications,"{""Communication Skills"": 2, ""Media Analysis"": 4, ""Research Skills"": 4}",Public Relations; Media Relations,Strengthen core academic skills,45
+E14,Media & Communications,"{""Communication Skills"": 4, ""Media Analysis"": 3, ""Research Skills"": 4}",Advertising; Media Strategy,Develop advanced subject knowledge,70
+E15,Design & Creative Arts,"{""Visual Communication"": 2, ""Design Skills"": 4, ""Creative Thinking"": 4}",Graphic Design; Typography,Strengthen core academic skills,44
+E16,Design & Creative Arts,"{""Visual Communication"": 4, ""Design Skills"": 3, ""Creative Thinking"": 4}",UX/UI Design; User Research,Develop advanced subject knowledge,72
+E17,Mathematics & Statistics,"{""Mathematical Reasoning"": 2, ""Problem Solving"": 4, ""Statistical Analysis"": 4}",Calculus; Derivatives,Strengthen core academic skills,47
+E18,Mathematics & Statistics,"{""Mathematical Reasoning"": 4, ""Problem Solving"": 3, ""Statistical Analysis"": 4}",Algebra; Vectors,Develop advanced subject knowledge,73
+E19,Social Sciences & Humanities,"{""Critical Analysis"": 2, ""Research Skills"": 4, ""Academic Writing"": 4}",Politics; Governance,Strengthen core academic skills,49
+E20,Social Sciences & Humanities,"{""Critical Analysis"": 4, ""Research Skills"": 3, ""Academic Writing"": 4}",Social Research; Statistics,Develop advanced subject knowledge,71
